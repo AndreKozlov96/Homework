@@ -11,6 +11,6 @@
 # 60 -> 10  40  10
 
 s = int(input('Введите общее количество сделанных журавликов: '))
-sergey_and_petr = s/4
-kate = s/2
+sergey_and_petr = s / 4
+kate = s / 2
 print(f'Серёжа и Петя сделали по {int(sergey_and_petr)} журавликов, а Катя {int(kate)} журавликов.')

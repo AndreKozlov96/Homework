@@ -16,4 +16,3 @@ m = int(input('M = '))
 n = int(input('N = '))
 k = int(input('Укажите количесвто долек, которое бы Вы хотели отломить за раз: '))
 print('yes' if (k % m == 0 or k % n == 0) and k < (m * n) else 'no')
-
